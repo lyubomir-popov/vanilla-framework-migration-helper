@@ -1,3 +1,9 @@
+// Note: This should never be used in production code. 
+// Its sole purpouse is to suppress most of the errors you'll get when you change the vanilla version.
+// Please treat it as a to do list, in conjunction with the upgrade guide https://docs.google.com/document/d/1nPQlVBftt7tv9dI__uTUQpUT_rSEOW6_Atp7jM9whmA/edit 
+
+
+
 // 1. VERTICAL SPACING
 // 1.1 Vertical spacing inside components
 $spv-intra--condensed:	$spv-inner--x-small;
